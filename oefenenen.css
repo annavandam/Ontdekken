@@ -1,0 +1,28 @@
+h1 {
+    color: navy;
+    background-color: light blue;
+}
+p {
+	color: white;
+	
+}
+h2 { 
+	color: pink;
+}
+body {
+	background-color: lightblue;
+}
+li {
+	color: navy;
+}
+
+p {
+	color: navy;
+}
+
+h2 {
+    font-size: 1.5em;
+    background-color: white;
+    margin: 20px;
+    padding: 40px;
+}
