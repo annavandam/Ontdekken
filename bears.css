@@ -54,6 +54,7 @@ h1{
 
 h2{
   font-family:Georgia;
+  width: 100%;
 }
 
 .top-nav ul{
@@ -71,4 +72,8 @@ text-decoration: none;
 
 .top-nav ul li:hover{
 	left: 20px;
+}
+
+video{
+	width: 100%;
 }
