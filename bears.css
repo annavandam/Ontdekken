@@ -46,6 +46,8 @@ body{
 h1{
 	background-color: #b68052;
 	margin: 20px;
+	margin-left: -20px;
+	margin-right: -20px;
 	padding: 10px 20px;
 	color: aliceblue;
 }
